@@ -1,4 +1,4 @@
-Development Environment<br>
+開発環境<br>
 ・python 3.9.12<br>
 ・sklearn 1.1.1<br>
 ・tensorflow 2.8.0<br>
